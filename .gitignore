@@ -1,0 +1,25 @@
+# 환경변수 (절대 커밋 금지)
+.env
+
+# 데이터 폴더 전체 (이미지, 임베딩, 결과물)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 가상환경
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

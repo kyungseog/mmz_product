@@ -1,0 +1,24 @@
+# 환경변수
+python-dotenv>=1.0.0
+
+# BigQuery
+google-cloud-bigquery==3.25.0
+
+# 이미지 다운로드
+requests==2.32.3
+
+# SegFormer / DINOv2
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.40.0
+Pillow>=10.0.0
+numpy>=1.26.0
+
+# 임베딩 유사도
+scikit-learn>=1.4.0
+
+# Claude API (Phase 5)
+anthropic>=0.28.0
+
+# 유틸
+tqdm>=4.66.0
